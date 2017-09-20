@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Github demo
-//
-//  Created by DUHUN HWANG on 2017. 9. 20..
-//  Copyright © 2017년 YELOBEAN. All rights reserved.
-//
+
 
 import UIKit
 
